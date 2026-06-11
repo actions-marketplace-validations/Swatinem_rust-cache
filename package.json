@@ -32,8 +32,8 @@
     "smol-toml": "^1.5.2"
   },
   "devDependencies": {
-    "@types/node": "^25.0.2",
-    "@vercel/ncc": "^0.38.4",
+    "@types/node": "^25.9.3",
+    "@vercel/ncc": "^0.44.0",
     "linefix": "^0.1.1",
     "typescript": "5.9.3"
   },
